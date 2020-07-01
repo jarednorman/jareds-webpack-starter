@@ -6,5 +6,9 @@
   "repository": "https://github.com/jarednorman/jareds-webpack-starter",
   "author": "Jared Norman <jared@super.gd>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12"
+  }
 }
