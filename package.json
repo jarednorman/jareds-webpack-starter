@@ -2,11 +2,10 @@
   "name": "jareds-webpack-starter",
   "version": "6.6.6",
   "description": "A simple webpack starter with almost nothing but the thing I always want.",
-  "main": "src/index.js",
   "repository": "https://github.com/jarednorman/jareds-webpack-starter",
   "author": "Jared Norman <jared@super.gd>",
+  "private": true,
   "license": "MIT",
-  "private": false,
   "devDependencies": {
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12"
