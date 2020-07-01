@@ -1,0 +1,10 @@
+{
+  "name": "jareds-webpack-starter",
+  "version": "6.6.6",
+  "description": "A simple webpack starter with almost nothing but the thing I always want.",
+  "main": "src/index.js",
+  "repository": "https://github.com/jarednorman/jareds-webpack-starter",
+  "author": "Jared Norman <jared@super.gd>",
+  "license": "MIT",
+  "private": false
+}
