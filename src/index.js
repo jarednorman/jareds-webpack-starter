@@ -5,8 +5,12 @@ app.innerHTML = `
   <div style="padding: 1rem; display: flex; justify-content: center; align-items: center; min-height: 100vh;">
     <div style="max-width: 30rem;">
       <h1>Jared's Webpack Starter</h1>
+
       <p>
-        This webpack is mostly for me, but here's what's in it.
+        This webpack is mostly for me, but sharing is good. You can find the
+        source on <a
+        href="https://github.com/jarednorman/jareds-webpack-starter">my
+        GitHub</a>. Here's what's in it.
       </p>
 
       <ul>
