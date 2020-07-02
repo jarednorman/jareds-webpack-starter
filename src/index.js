@@ -7,20 +7,27 @@ app.innerHTML = `
       <h1>Jared's Webpack Starter</h1>
 
       <p>
-        This webpack is mostly for me, but sharing is good. You can find the
-        source on <a
+        This Webpack starter is mostly for me, but sharing is good. You can
+        find the source on <a
         href="https://github.com/jarednorman/jareds-webpack-starter">my
         GitHub</a>. Here's what's in it.
       </p>
 
       <ul>
         <li>Babel</li>
+        <li>PostCSS</li>
         <li>HTML output</li>
         <li><code>webpack-dev-server</code></li>
         <li>Linting with Prettier before commit (works with <code>git add -p</code>)</li>
         <li>Basic style normalization and typography defaults from <a href="https://kyleamathews.github.io/typography.js/"><code>typography.js</code></a>.</li>
         <li>Configuration for deploying to Netlify</li>
       </ul>
+
+      <p>
+        Basically it's ready to go if you want to do some little JS experiment.
+        You can deploy it straight to Netlify if you want since it has the
+        needed configuration.
+      </p>
 
       <h2>How To Do</h2>
 
