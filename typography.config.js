@@ -7,4 +7,14 @@ module.exports = new Typography({
   baseLineHeight: 1.3,
   headerFontFamily: ["Work Sans", "sans-serif"],
   bodyFontFamily: ["Work Sans", "sans-serif"],
+  overrideStyles: ({ adjustFontSizeTo, rhythm }, options, styles) => ({
+    a: {
+      fontWeight: "bold",
+      textDecoration: "none",
+      color: "RebeccaPurple",
+    },
+    "a:hover": {
+      color: "DeepPink",
+    },
+  }),
 })

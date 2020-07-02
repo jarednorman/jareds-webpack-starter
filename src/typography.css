@@ -579,3 +579,11 @@ th:last-child,
 td:last-child {
   padding-right: 0;
 }
+a {
+  font-weight: bold;
+  text-decoration: none;
+  color: RebeccaPurple;
+}
+a:hover {
+  color: DeepPink;
+}

@@ -24,6 +24,13 @@ app.innerHTML = `
 
       <h2>How To Do</h2>
 
+      <p>
+        This repository is a GitHub template, so you can use
+        <a href="https://github.com/jarednorman/jareds-webpack-starter/generate">this
+        link</a> to use it as a starting point. These are the commands you need
+        to know.
+      </p>
+
       <ul>
         <li><code>yarn dev</code> – Run the development server (on port 9123 by default.)</li>
         <li><code>yarn build</code> – Build the output into dist/, but Netlify already knows that (because of the include <code>netlify.toml</code>.)</li>
