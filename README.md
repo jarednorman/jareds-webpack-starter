@@ -1,8 +1,3 @@
 # Jared's Webpack Starter
 
-This webpack is mostly for me, but here's what's in it.
-
-- `webpack-dev-server`
-- Babel
-- HTML ouput
-- Linting with Prettier before commit (works with `git add -p`)
+Find out more [here](https://webpack-starter.jarednorman.ca/).
