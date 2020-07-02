@@ -1,2 +1,5 @@
 const app = document.getElementById("app")
-app.textContent = "There's no sun in the shadow of the wizard."
+app.innerHTML = `
+  <h1>Jared's Webpack Starter</h1>
+  <p>You can find out more <a href="https://github.com/jarednorman/jareds-webpack-starter">here</a>.</p>
+`
