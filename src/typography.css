@@ -582,8 +582,8 @@ td:last-child {
 a {
   font-weight: bold;
   text-decoration: none;
-  color: RebeccaPurple;
+  color: DeepPink;
 }
 a:hover {
-  color: DeepPink;
+  color: RebeccaPurple;
 }
